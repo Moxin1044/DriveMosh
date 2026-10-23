@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DriveMosh</string>
+
+    <string name="label_g_force">G-FORCE</string>
+    <string name="label_acceleration">加速度</string>
+    <string name="label_live">LIVE</string>
+    <string name="label_now_playing">NOW PLAYING</string>
+    <string name="label_playing">正在播放</string>
+    <string name="label_peak">峰值 0.00 G</string>
+    <string name="label_drive_mode">DRIVE MODE</string>
+    <string name="label_unit_g">G</string>
+    <string name="cd_speed">GPS 时速表</string>
+
+    <string name="unknown_track">未知曲目</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="no_track">未检测到播放</string>
+    <string name="no_track_sub">在后台播放音乐即可显示曲目</string>
+    <string name="no_access_sub">播放控制可用 · 显示曲目需授权</string>
+    <string name="enable_media_access">开启通知使用权以显示歌曲信息 ›</string>
+    <string name="media_access_granted">媒体信息已授权</string>
+    <string name="peak_reset">峰值已重置</string>
+
+    <string name="cd_previous">上一首</string>
+    <string name="cd_next">下一首</string>
+    <string name="cd_play">播放</string>
+    <string name="cd_pause">暂停</string>
+    <string name="cd_album_art">专辑封面</string>
+</resources>

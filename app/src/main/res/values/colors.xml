@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="deep_space">#FF04070D</color>
+    <color name="neon_cyan">#FF00E5FF</color>
+    <color name="neon_magenta">#FFFF3CAC</color>
+    <color name="text_primary">#FFE8F6FF</color>
+    <color name="text_secondary">#FF7E93A8</color>
+    <color name="text_muted">#FF516477</color>
+</resources>
